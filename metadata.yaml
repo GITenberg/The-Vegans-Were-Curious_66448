@@ -1,5 +1,8 @@
 _repo: The-Vegans-Were-Curious_66448
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66448-h/images/cover.jpg
 creator:
   author:
     agent_name: Marks, Winston K. (Winston Kinney)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '26841'
     url: http://www.gutenberg.org/2009/agents/26841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66448#The-Vegans-Were-Curious
 gutenberg_issued: '2021-10-02'
 identifiers:
   gutenberg: '66448'
